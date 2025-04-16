@@ -1,3 +1,12 @@
+body {
+    background: linear-gradient(to bottom, #87CEEB, #f0f0f0); /* Céu para chão */
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .Semáforo{
     width: 120px;
     height: 300px;
@@ -9,8 +18,8 @@
     text-align: center;
     position: relative;
 }
-
-.luz{
+ 
+.luz{ 
     width: 80px;
     height: 80px;
     border-radius: 50%;

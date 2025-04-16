@@ -2,8 +2,7 @@
  Grupo: Laiza, Anthony, Gleice.
 
 Anthony:
-para fazer o semáforo foi necessário usar um pouco de Java Script e do StyleCSS
-para a produção do projeto
+para fazer o semáforo foi necessário usar um pouco de Java Script e do StyleCSS para a produção do projeto
 °Bootstrap
 °Java Script
 °Index html
