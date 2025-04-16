@@ -1,5 +1,4 @@
 const luzes = ['vermelho', 'amarelo', 'verde'];
-
 let luzAtual = 0;
 
 function mudaLuz()

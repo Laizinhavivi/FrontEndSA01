@@ -19,6 +19,6 @@
     transition: background-color 1s;
 }
 
-.vermelho{background-color: red;}
-.amarelo{background-color: yellow;}
-.verde{background-color: green;}
+.vermelho{background-color: rgb(231, 27, 27);}
+.amarelo{background-color: rgb(179, 179, 50);}
+.verde{background-color: rgb(66, 172, 66);}

@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+  }
+  
+  body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #a38787;
+  }
+  
+  main {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  hr {
+    font-weight: bold;
+    height: 3px;
+    background: black;
+    margin-bottom: 10px;
+  }
+  
+  .game {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  .game button {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 50px;
+    background: rgb(216, 198, 198);
+    border: 2px solid black;
+  }
